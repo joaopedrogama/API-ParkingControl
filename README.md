@@ -5,6 +5,7 @@ Parking Conrtol é uma API de controle de estacionamento de condominio contendo 
 ## 🚀 Começando
 
 ### End-Points:
+AINDA EM DESENVOLVIMENTO
 
 ## 🛠️ Construído com
 
